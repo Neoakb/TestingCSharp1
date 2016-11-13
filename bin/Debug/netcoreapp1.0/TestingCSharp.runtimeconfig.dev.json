@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/chrx/.nuget/packages"
+    ]
+  }
+}
