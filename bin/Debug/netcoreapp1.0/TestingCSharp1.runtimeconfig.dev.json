@@ -1,7 +1,7 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\neoak\\.nuget\\packages"
+      "/home/chrx/.nuget/packages"
     ]
   }
 }
